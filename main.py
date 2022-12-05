@@ -4,6 +4,8 @@ import itertools
 
 import matplotlib.pyplot as plt
 
+from multiprocessing import Pool
+
 
 def jar_wrapper(path, *args):
     process = subprocess.Popen(['java', '-jar', path] + list(args), stdout=subprocess.PIPE, stderr=subprocess.PIPE,
@@ -90,42 +92,55 @@ def loop_combinations_and_run(args_fixed, args_combination):
         yield labels, run_jar(arg_joined)
 
 
+def graph_instance(instance_arguments, label):
+    print("Starting task " + label)
+
+    plt.figure(figsize=(8, 6), dpi=80)
+    plt.title(label)
+    plt.ylabel("Score")
+    plt.xlabel("Iteration")
+
+    if instance_arguments[1] == "1":
+        args_dynamic = tabu_args_combination
+    elif instance_arguments[1] == "2":
+        args_dynamic = annealing_args_combination
+    else:
+        raise Exception('No such algorithm')
+
+    for labels, output in loop_combinations_and_run(instance_arguments, args_dynamic):
+        final = get_final_score(output)
+
+        combination_label = " ".join(labels)
+
+        per_iter = get_scores_per_iter(output)
+
+        x, y = zip(*per_iter)
+
+        plt.plot(x, y, label=f'{combination_label}, best:{final}')
+
+        squad = get_best_squad(output)
+        print(f'Score: {final} of {label},{combination_label} with squad {squad}')
+
+    plt.legend()
+
+    plt.savefig(f'images/{label.replace(" ", "")}.png', bbox_inches='tight')
+    plt.show()
+    print('Finished task ' + label)
+
+
 if __name__ == '__main__':
+
+    pool = Pool()
+    results = []
 
     for args in itertools.product(*instance_alg_combination):
         fixed_arguments, instance_labels = zip(*args)
-
         graph_label = " ".join(instance_labels)
 
-        print("Graphing " + graph_label)
+        print(f'Starting task {graph_label}')
+        results.append(pool.apply_async(graph_instance, [fixed_arguments, graph_label]))
 
-        plt.figure(figsize=(8, 6), dpi=80)
-        plt.title(graph_label)
-        plt.ylabel("Score")
-        plt.xlabel("Iteration")
+    for result in results:
+        result.get()
 
-        if fixed_arguments[1] == "1":
-            args_dynamic = tabu_args_combination
-        elif fixed_arguments[1] == "2":
-            args_dynamic = annealing_args_combination
-        else:
-            raise Exception('No such algorithm')
-
-        for labels, output in loop_combinations_and_run(fixed_arguments, args_dynamic):
-            final = get_final_score(output)
-
-            combination_label = " ".join(labels)
-
-            per_iter = get_scores_per_iter(output)
-
-            x, y = zip(*per_iter)
-
-            plt.plot(x, y, label=f'{combination_label}, best:{final}')
-
-            squad = get_best_squad(output)
-            print(f'Score: {final} of {combination_label} with squad {squad}')
-
-        plt.legend()
-
-        plt.savefig(f'images/{graph_label.replace(" ", "")}.png', bbox_inches='tight')
-        plt.show()
+    print('Finished all tasks')
