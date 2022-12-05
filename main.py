@@ -66,14 +66,18 @@ folder_path = '/Users/matejc/Dev/IntelliJ/Heurističke metode optimizacije/Lab1_
 first_argument = [(folder_path + '2022_instance1.csv', 'Instance 1'),
                   (folder_path + '2022_instance2.csv', 'Instance 2'),
                   (folder_path + '2022_instance3.csv', 'Instance 3')]
-second_argument = [("1", "Tabu")]
+second_argument = [("1", "Tabu"), ("2", "Simulated Annealing")]
 third_argument = [("1", "Greedy Initial"), ("2", "Random Initial")]
-# fourth_argument = map(lambda x: (str(x), "Tenure " + str(x)), range(5, 100, 5))
-fourth_argument = list(map(lambda x: (str(x), "Tenure " + str(x)), range(5, 100, 25)))
-fifth_argument = [("1", "Explicit Tabu List"), ("2", "Attributive Tabu List")]
+
+fourth_argument_tabu = list(map(lambda x: (str(x), "Tenure " + str(x)), range(5, 50, 10)))
+fifth_argument_tabu = [("1", "Explicit Tabu List"), ("2", "Attributive Tabu List")]
+
+fourth_argument_annealing = list(map(lambda x: (str(x), "Initial Temperature " + str(x)), range(50, 200, 50)))
+fifth_argument_annealing = [("1", "Linear Strategy"), ("2", "Geometric Strategy")]
 
 instance_alg_combination = [first_argument, second_argument, third_argument]
-tabu_args_combination = [fourth_argument, fifth_argument]
+tabu_args_combination = [fourth_argument_tabu, fifth_argument_tabu]
+annealing_args_combination = [fourth_argument_annealing, fifth_argument_annealing]
 
 
 def loop_combinations_and_run(args_fixed, args_combination):
@@ -100,7 +104,14 @@ if __name__ == '__main__':
         plt.ylabel("Score")
         plt.xlabel("Iteration")
 
-        for labels, output in loop_combinations_and_run(fixed_arguments, tabu_args_combination):
+        if fixed_arguments[1] == "1":
+            args_dynamic = tabu_args_combination
+        elif fixed_arguments[1] == "2":
+            args_dynamic = annealing_args_combination
+        else:
+            raise Exception('No such algorithm')
+
+        for labels, output in loop_combinations_and_run(fixed_arguments, args_dynamic):
             final = get_final_score(output)
 
             combination_label = " ".join(labels)
