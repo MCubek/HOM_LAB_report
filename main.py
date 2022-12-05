@@ -126,4 +126,6 @@ if __name__ == '__main__':
             print(f'Score: {final} of {combination_label} with squad {squad}')
 
         plt.legend()
+
+        plt.savefig(f'images/{graph_label.replace(" ", "")}.png', bbox_inches='tight')
         plt.show()
