@@ -1,4 +1,3 @@
-/opt/homebrew/Caskroom/miniforge/base/envs/HMO_report/bin/python /Users/matejc/PycharmProjects/HMO_report/main.py
 Starting task Instance 1 Tabu Greedy Initial
 Starting task Instance 1 Tabu Random Initial
 Starting task Instance 1 Simulated Annealing Greedy Initial
@@ -13,220 +12,337 @@ Starting task Instance 3 Simulated Annealing Greedy Initial
 Starting task Instance 3 Simulated Annealing Random Initial
 Starting task Instance 1 Tabu Greedy Initial
 Starting task Instance 1 Tabu Random Initial
-Running combination Tenure 5 Explicit Tabu List
-Running combination Tenure 5 Explicit Tabu List
 Starting task Instance 1 Simulated Annealing Greedy Initial
+Running combination Tenure 5 Explicit Tabu List
 Starting task Instance 1 Simulated Annealing Random Initial
+Running combination Tenure 5 Explicit Tabu List
+Running combination Initial Temperature 10 Linear Strategy
 Starting task Instance 2 Tabu Greedy Initial
 Starting task Instance 2 Tabu Random Initial
-Running combination Initial Temperature 50 Linear Strategy
 Starting task Instance 2 Simulated Annealing Greedy Initial
 Starting task Instance 2 Simulated Annealing Random Initial
+Running combination Initial Temperature 10 Linear Strategy
 Starting task Instance 3 Tabu Greedy Initial
-Running combination Initial Temperature 50 Linear Strategy
+Running combination Tenure 5 Explicit Tabu List
 Starting task Instance 3 Tabu Random Initial
+Running combination Initial Temperature 10 Linear Strategy
 Running combination Tenure 5 Explicit Tabu List
-Running combination Initial Temperature 50 Linear Strategy
-Running combination Tenure 5 Explicit Tabu List
-Running combination Initial Temperature 50 Linear Strategy
+Running combination Initial Temperature 10 Linear Strategy
 Running combination Tenure 5 Explicit Tabu List
 Running combination Tenure 5 Explicit Tabu List
-Score: 2024 of Instance 1 Tabu Greedy Initial,Tenure 5 Explicit Tabu List with squad ([4, 48, 72, 77, 216, 218, 263, 276, 306, 412, 421], [44, 197, 204, 468])
+Score: 1983 of Instance 1 Tabu Greedy Initial,Tenure 5 Explicit Tabu List with squad ([4, 47, 48, 71, 72, 216, 263, 306, 412, 421, 424], [38, 201, 377, 406])
 Running combination Tenure 5 Attributive Tabu List
-Score: 1902 of Instance 1 Tabu Random Initial,Tenure 5 Explicit Tabu List with squad ([4, 48, 72, 77, 184, 216, 263, 276, 306, 412, 421], [37, 183, 235, 434])
+Score: 1842 of Instance 1 Tabu Random Initial,Tenure 5 Explicit Tabu List with squad ([4, 48, 72, 77, 81, 216, 263, 306, 412, 424, 444], [43, 158, 237, 247])
 Running combination Tenure 5 Attributive Tabu List
-Score: 1466 of Instance 3 Tabu Random Initial,Tenure 5 Explicit Tabu List with squad ([16, 72, 110, 139, 153, 282, 285, 297, 545, 554, 598], [31, 80, 459, 466])
+Score: 1478 of Instance 3 Tabu Random Initial,Tenure 5 Explicit Tabu List with squad ([16, 72, 73, 75, 139, 153, 285, 445, 543, 545, 551], [55, 306, 475, 485])
 Running combination Tenure 5 Attributive Tabu List
-Score: 1530 of Instance 3 Tabu Greedy Initial,Tenure 5 Explicit Tabu List with squad ([16, 72, 74, 75, 139, 282, 285, 291, 313, 551, 559], [56, 276, 537, 623])
+Score: 1525 of Instance 3 Tabu Greedy Initial,Tenure 5 Explicit Tabu List with squad ([16, 72, 73, 74, 75, 139, 285, 290, 291, 545, 551], [58, 488, 514, 613])
 Running combination Tenure 5 Attributive Tabu List
-Score: 2033 of Instance 2 Tabu Greedy Initial,Tenure 5 Explicit Tabu List with squad ([10, 74, 76, 77, 117, 158, 298, 301, 308, 583, 584], [65, 571, 572, 658])
+Score: 1971 of Instance 2 Tabu Random Initial,Tenure 5 Explicit Tabu List with squad ([10, 74, 75, 87, 117, 301, 308, 402, 578, 583, 584], [43, 92, 442, 469])
 Running combination Tenure 5 Attributive Tabu List
-Score: 1923 of Instance 2 Tabu Random Initial,Tenure 5 Explicit Tabu List with squad ([10, 74, 76, 77, 87, 298, 315, 348, 578, 583, 629], [15, 189, 335, 508])
+Score: 2027 of Instance 2 Tabu Greedy Initial,Tenure 5 Explicit Tabu List with squad ([10, 74, 75, 76, 77, 87, 301, 308, 315, 578, 583], [72, 555, 566, 658])
 Running combination Tenure 5 Attributive Tabu List
-Score: 2028 of Instance 1 Tabu Greedy Initial,Tenure 5 Attributive Tabu List with squad ([4, 71, 72, 77, 216, 218, 263, 306, 412, 421, 424], [39, 200, 208, 381])
-Running combination Tenure 15 Explicit Tabu List
-Score: 1726 of Instance 1 Tabu Random Initial,Tenure 5 Attributive Tabu List with squad ([4, 72, 77, 184, 206, 216, 306, 377, 412, 413, 421], [15, 53, 324, 386])
-Running combination Tenure 15 Explicit Tabu List
-Score: 1456 of Instance 3 Tabu Random Initial,Tenure 5 Attributive Tabu List with squad ([16, 72, 74, 119, 139, 153, 285, 344, 543, 545, 559], [11, 318, 320, 470])
-Running combination Tenure 15 Explicit Tabu List
-Score: 1525 of Instance 3 Tabu Greedy Initial,Tenure 5 Attributive Tabu List with squad ([16, 72, 73, 74, 75, 139, 285, 290, 291, 545, 551], [57, 502, 507, 621])
-Running combination Tenure 15 Explicit Tabu List
-Score: 1883 of Instance 2 Tabu Random Initial,Tenure 5 Attributive Tabu List with squad ([10, 74, 75, 117, 130, 158, 298, 301, 489, 578, 629], [3, 321, 422, 625])
-Running combination Tenure 15 Explicit Tabu List
-Score: 2021 of Instance 1 Tabu Greedy Initial,Tenure 15 Explicit Tabu List with squad ([4, 48, 71, 72, 77, 216, 218, 263, 306, 412, 421], [45, 210, 410, 469])
-Running combination Tenure 15 Attributive Tabu List
-Score: 2024 of Instance 2 Tabu Greedy Initial,Tenure 5 Attributive Tabu List with squad ([10, 74, 75, 76, 77, 301, 308, 315, 348, 578, 583], [60, 282, 552, 662])
-Running combination Tenure 15 Explicit Tabu List
-Score: 1792 of Instance 1 Tabu Random Initial,Tenure 15 Explicit Tabu List with squad ([4, 77, 116, 184, 213, 216, 263, 306, 421, 424, 444], [16, 58, 70, 234])
-Running combination Tenure 15 Attributive Tabu List
-Score: 1728 of Instance 1 Tabu Random Initial,Tenure 15 Attributive Tabu List with squad ([4, 48, 77, 116, 125, 184, 216, 306, 377, 412, 421], [10, 223, 348, 451])
-Running combination Tenure 25 Explicit Tabu List
-Score: 1961 of Instance 1 Tabu Greedy Initial,Tenure 15 Attributive Tabu List with squad ([4, 47, 48, 71, 72, 77, 216, 306, 412, 421, 424], [36, 370, 398, 399])
-Running combination Tenure 25 Explicit Tabu List
-Score: 1522 of Instance 3 Tabu Random Initial,Tenure 15 Explicit Tabu List with squad ([16, 72, 74, 119, 139, 282, 285, 313, 344, 545, 554], [31, 217, 453, 609])
-Running combination Tenure 15 Attributive Tabu List
-Score: 1543 of Instance 3 Tabu Greedy Initial,Tenure 15 Explicit Tabu List with squad ([16, 72, 73, 74, 75, 139, 285, 291, 545, 551, 554], [66, 494, 502, 503])
-Running combination Tenure 15 Attributive Tabu List
-Score: 1507 of Instance 3 Tabu Random Initial,Tenure 15 Attributive Tabu List with squad ([16, 72, 74, 119, 139, 282, 285, 445, 545, 551, 598], [3, 159, 497, 514])
-Running combination Tenure 25 Explicit Tabu List
-Score: 1919 of Instance 2 Tabu Random Initial,Tenure 15 Explicit Tabu List with squad ([10, 74, 75, 87, 117, 298, 301, 348, 354, 578, 591], [23, 99, 553, 662])
-Running combination Tenure 15 Attributive Tabu List
-Score: 1543 of Instance 3 Tabu Greedy Initial,Tenure 15 Attributive Tabu List with squad ([16, 72, 73, 74, 75, 139, 285, 291, 545, 551, 554], [60, 485, 486, 532])
-Running combination Tenure 25 Explicit Tabu List
-Score: 1991 of Instance 1 Tabu Greedy Initial,Tenure 25 Explicit Tabu List with squad ([4, 48, 71, 72, 77, 81, 216, 218, 306, 412, 421], [46, 407, 410, 469])
-Running combination Tenure 25 Attributive Tabu List
-Score: 1919 of Instance 1 Tabu Random Initial,Tenure 25 Explicit Tabu List with squad ([4, 71, 72, 77, 81, 216, 229, 263, 306, 412, 421], [36, 192, 230, 451])
-Running combination Tenure 25 Attributive Tabu List
-Score: 2019 of Instance 2 Tabu Greedy Initial,Tenure 15 Explicit Tabu List with squad ([10, 74, 75, 77, 87, 117, 298, 301, 315, 583, 584], [57, 564, 572, 664])
-Running combination Tenure 15 Attributive Tabu List
-Score: 1687 of Instance 1 Tabu Random Initial,Tenure 25 Attributive Tabu List with squad ([21, 77, 81, 116, 184, 213, 216, 306, 358, 412, 444], [26, 151, 338, 418])
-Running combination Tenure 35 Explicit Tabu List
-Score: 1870 of Instance 2 Tabu Random Initial,Tenure 15 Attributive Tabu List with squad ([10, 76, 87, 158, 298, 299, 301, 372, 489, 578, 629], [25, 251, 259, 621])
-Running combination Tenure 25 Explicit Tabu List
-Score: 2008 of Instance 2 Tabu Greedy Initial,Tenure 15 Attributive Tabu List with squad ([10, 74, 75, 76, 117, 301, 302, 308, 315, 583, 584], [57, 278, 551, 661])
-Running combination Tenure 25 Explicit Tabu List
-Score: 2021 of Instance 1 Tabu Greedy Initial,Tenure 25 Attributive Tabu List with squad ([4, 48, 71, 72, 77, 216, 218, 263, 306, 412, 421], [38, 195, 392, 472])
-Running combination Tenure 35 Explicit Tabu List
-Score: 1496 of Instance 3 Tabu Random Initial,Tenure 25 Explicit Tabu List with squad ([16, 72, 73, 139, 157, 282, 285, 344, 545, 551, 598], [70, 251, 335, 449])
-Running combination Tenure 25 Attributive Tabu List
-Score: 1524 of Instance 3 Tabu Greedy Initial,Tenure 25 Explicit Tabu List with squad ([16, 72, 73, 74, 139, 285, 290, 291, 313, 545, 551], [64, 250, 490, 619])
-Running combination Tenure 25 Attributive Tabu List
-Score: 1752 of Instance 1 Tabu Random Initial,Tenure 35 Explicit Tabu List with squad ([4, 72, 77, 81, 184, 213, 216, 306, 412, 444, 453], [36, 204, 239, 348])
-Running combination Tenure 35 Attributive Tabu List
-Score: 1457 of Instance 3 Tabu Random Initial,Tenure 25 Attributive Tabu List with squad ([16, 73, 75, 118, 119, 139, 282, 285, 445, 545, 554], [15, 324, 440, 600])
-Running combination Tenure 35 Explicit Tabu List
-Score: 1759 of Instance 1 Tabu Random Initial,Tenure 35 Attributive Tabu List with squad ([4, 72, 81, 116, 184, 213, 216, 306, 412, 424, 468], [10, 185, 326, 345])
-Running combination Tenure 45 Explicit Tabu List
-Score: 1543 of Instance 3 Tabu Greedy Initial,Tenure 25 Attributive Tabu List with squad ([16, 72, 73, 74, 75, 139, 285, 291, 545, 551, 554], [60, 499, 525, 531])
-Running combination Tenure 35 Explicit Tabu List
-Score: 1897 of Instance 2 Tabu Random Initial,Tenure 25 Explicit Tabu List with squad ([10, 74, 87, 158, 298, 301, 348, 489, 578, 583, 629], [68, 214, 254, 309])
-Running combination Tenure 25 Attributive Tabu List
-Score: 1991 of Instance 1 Tabu Greedy Initial,Tenure 35 Explicit Tabu List with squad ([4, 48, 71, 72, 77, 81, 216, 218, 306, 412, 421], [43, 385, 390, 468])
-Running combination Tenure 35 Attributive Tabu List
-Score: 2049 of Instance 2 Tabu Greedy Initial,Tenure 25 Explicit Tabu List with squad ([10, 74, 75, 76, 77, 117, 301, 308, 578, 583, 584], [58, 548, 552, 562])
-Running combination Tenure 25 Attributive Tabu List
-Score: 1974 of Instance 2 Tabu Random Initial,Tenure 25 Attributive Tabu List with squad ([10, 74, 75, 77, 117, 158, 298, 301, 489, 578, 583], [20, 449, 547, 647])
-Running combination Tenure 35 Explicit Tabu List
-Score: 1991 of Instance 1 Tabu Greedy Initial,Tenure 35 Attributive Tabu List with squad ([4, 48, 71, 72, 77, 81, 216, 218, 306, 412, 421], [36, 388, 411, 471])
-Running combination Tenure 45 Explicit Tabu List
-Score: 1973 of Instance 1 Tabu Random Initial,Tenure 45 Explicit Tabu List with squad ([4, 72, 77, 81, 213, 216, 218, 263, 306, 421, 431], [46, 104, 204, 471])
-Running combination Tenure 45 Attributive Tabu List
-Score: 1488 of Instance 3 Tabu Random Initial,Tenure 35 Explicit Tabu List with squad ([16, 72, 73, 74, 75, 139, 285, 326, 445, 543, 545], [56, 356, 431, 584])
-Running combination Tenure 35 Attributive Tabu List
-Score: 1525 of Instance 3 Tabu Greedy Initial,Tenure 35 Explicit Tabu List with squad ([16, 72, 73, 74, 75, 139, 285, 290, 291, 545, 551], [61, 536, 541, 618])
-Running combination Tenure 35 Attributive Tabu List
-Score: 1833 of Instance 1 Tabu Random Initial,Tenure 45 Attributive Tabu List with squad ([10, 53, 71, 72, 216, 218, 263, 306, 412, 437, 444], [37, 82, 108, 337])
+Score: 1521 of Instance 3 Tabu Greedy Initial,Tenure 5 Attributive Tabu List with squad ([16, 72, 73, 74, 75, 139, 285, 291, 313, 545, 551], [56, 474, 506, 618])
+Running combination Tenure 30 Explicit Tabu List
+Score: 1827 of Instance 1 Tabu Random Initial,Tenure 5 Attributive Tabu List with squad ([4, 77, 81, 116, 184, 213, 216, 306, 412, 424, 437], [21, 201, 340, 369])
+Running combination Tenure 30 Explicit Tabu List
+Score: 1443 of Instance 3 Tabu Random Initial,Tenure 5 Attributive Tabu List with squad ([16, 72, 77, 119, 139, 282, 283, 285, 551, 598, 622], [55, 228, 440, 458])
+Running combination Tenure 30 Explicit Tabu List
+Score: 1961 of Instance 1 Tabu Greedy Initial,Tenure 5 Attributive Tabu List with squad ([4, 47, 48, 71, 72, 77, 216, 306, 412, 421, 424], [45, 397, 398, 410])
+Running combination Tenure 30 Explicit Tabu List
+Score: 1951 of Instance 1 Tabu Random Initial,Tenure 30 Explicit Tabu List with squad ([4, 71, 72, 77, 216, 218, 263, 306, 420, 421, 424], [45, 59, 153, 232])
+Running combination Tenure 30 Attributive Tabu List
+Score: 1991 of Instance 1 Tabu Greedy Initial,Tenure 30 Explicit Tabu List with squad ([4, 48, 71, 72, 77, 81, 216, 218, 306, 412, 421], [37, 380, 389, 469])
+Running combination Tenure 30 Attributive Tabu List
+Score: 1924 of Instance 2 Tabu Random Initial,Tenure 5 Attributive Tabu List with squad ([10, 74, 76, 117, 158, 298, 301, 315, 348, 584, 591], [12, 124, 416, 613])
+Running combination Tenure 30 Explicit Tabu List
+Score: 1475 of Instance 3 Tabu Random Initial,Tenure 30 Explicit Tabu List with squad ([16, 72, 75, 119, 139, 282, 283, 285, 445, 559, 598], [23, 269, 347, 617])
+Running combination Tenure 30 Attributive Tabu List
+Score: 1519 of Instance 3 Tabu Greedy Initial,Tenure 30 Explicit Tabu List with squad ([16, 72, 73, 74, 139, 285, 286, 291, 313, 545, 554], [62, 273, 529, 621])
+Running combination Tenure 30 Attributive Tabu List
+Score: 1964 of Instance 1 Tabu Random Initial,Tenure 30 Attributive Tabu List with squad ([4, 48, 71, 72, 218, 229, 263, 306, 412, 421, 424], [28, 135, 176, 281])
+Running combination Tenure 55 Explicit Tabu List
+Score: 2049 of Instance 2 Tabu Greedy Initial,Tenure 5 Attributive Tabu List with squad ([10, 74, 75, 76, 77, 117, 301, 308, 578, 583, 584], [68, 552, 561, 565])
+Running combination Tenure 30 Explicit Tabu List
+Score: 2021 of Instance 1 Tabu Greedy Initial,Tenure 30 Attributive Tabu List with squad ([4, 48, 71, 72, 77, 216, 218, 263, 306, 412, 421], [38, 205, 401, 469])
+Running combination Tenure 55 Explicit Tabu List
+Score: 1443 of Instance 3 Tabu Random Initial,Tenure 30 Attributive Tabu List with squad ([16, 72, 73, 75, 139, 282, 285, 445, 545, 598, 606], [61, 118, 326, 349])
+Running combination Tenure 55 Explicit Tabu List
+Score: 1501 of Instance 3 Tabu Greedy Initial,Tenure 30 Attributive Tabu List with squad ([16, 72, 73, 75, 119, 139, 285, 286, 291, 545, 551], [59, 496, 511, 619])
+Running combination Tenure 55 Explicit Tabu List
+Score: 1766 of Instance 1 Tabu Random Initial,Tenure 55 Explicit Tabu List with squad ([4, 72, 77, 116, 125, 184, 213, 216, 412, 424, 444], [36, 246, 371, 403])
+Running combination Tenure 55 Attributive Tabu List
+Score: 1863 of Instance 2 Tabu Random Initial,Tenure 30 Explicit Tabu List with squad ([17, 74, 117, 130, 158, 298, 301, 489, 578, 583, 629], [56, 164, 310, 393])
+Running combination Tenure 30 Attributive Tabu List
+Score: 2021 of Instance 1 Tabu Greedy Initial,Tenure 55 Explicit Tabu List with squad ([4, 48, 71, 72, 77, 216, 218, 263, 306, 412, 421], [39, 195, 372, 468])
+Running combination Tenure 55 Attributive Tabu List
+Score: 1724 of Instance 1 Tabu Random Initial,Tenure 55 Attributive Tabu List with squad ([4, 72, 77, 184, 216, 263, 306, 358, 412, 421, 468], [21, 88, 92, 217])
+Running combination Tenure 80 Explicit Tabu List
+Score: 1418 of Instance 3 Tabu Random Initial,Tenure 55 Explicit Tabu List with squad ([16, 118, 119, 139, 282, 283, 285, 445, 545, 554, 622], [70, 175, 265, 348])
+Running combination Tenure 55 Attributive Tabu List
+Score: 2049 of Instance 2 Tabu Greedy Initial,Tenure 30 Explicit Tabu List with squad ([10, 74, 75, 76, 77, 87, 301, 308, 578, 583, 584], [68, 559, 568, 569])
+Running combination Tenure 30 Attributive Tabu List
+Score: 1991 of Instance 1 Tabu Greedy Initial,Tenure 55 Attributive Tabu List with squad ([4, 48, 71, 72, 77, 81, 216, 218, 306, 412, 421], [43, 375, 401, 469])
+Running combination Tenure 80 Explicit Tabu List
+Score: 1934 of Instance 2 Tabu Random Initial,Tenure 30 Attributive Tabu List with squad ([10, 74, 87, 117, 130, 298, 301, 348, 578, 583, 629], [53, 210, 357, 542])
+Running combination Tenure 55 Explicit Tabu List
+Score: 1543 of Instance 3 Tabu Greedy Initial,Tenure 55 Explicit Tabu List with squad ([16, 72, 73, 74, 75, 139, 285, 291, 545, 551, 554], [3, 495, 528, 534])
+Running combination Tenure 55 Attributive Tabu List
+Score: 1448 of Instance 3 Tabu Random Initial,Tenure 55 Attributive Tabu List with squad ([16, 72, 75, 118, 119, 139, 282, 285, 445, 545, 598], [28, 288, 533, 602])
+Running combination Tenure 80 Explicit Tabu List
+Score: 2041 of Instance 2 Tabu Greedy Initial,Tenure 30 Attributive Tabu List with squad ([10, 74, 76, 77, 87, 301, 308, 315, 578, 583, 584], [68, 286, 549, 558])
+Running combination Tenure 55 Explicit Tabu List
+Score: 1513 of Instance 3 Tabu Greedy Initial,Tenure 55 Attributive Tabu List with squad ([16, 72, 73, 74, 139, 285, 286, 291, 326, 545, 554], [56, 271, 521, 620])
+Running combination Tenure 80 Explicit Tabu List
+Score: 2021 of Instance 1 Simulated Annealing Greedy Initial,Initial Temperature 10 Linear Strategy with squad ([4, 48, 71, 72, 77, 216, 218, 263, 306, 412, 421], [39, 202, 379, 468])
+Running combination Initial Temperature 10 Geometric Strategy
+Score: 1902 of Instance 1 Tabu Random Initial,Tenure 80 Explicit Tabu List with squad ([4, 48, 53, 71, 72, 77, 213, 216, 306, 421, 431], [46, 232, 390, 469])
+Running combination Tenure 80 Attributive Tabu List
+Score: 2021 of Instance 1 Tabu Greedy Initial,Tenure 80 Explicit Tabu List with squad ([4, 48, 71, 72, 77, 216, 218, 263, 306, 412, 421], [39, 212, 392, 472])
+Running combination Tenure 80 Attributive Tabu List
+Score: 1862 of Instance 1 Tabu Random Initial,Tenure 80 Attributive Tabu List with squad ([21, 47, 48, 72, 77, 216, 306, 358, 412, 421, 424], [31, 80, 334, 335])
+Running combination Tenure 105 Explicit Tabu List
+Score: 1768 of Instance 1 Simulated Annealing Random Initial,Initial Temperature 10 Linear Strategy with squad ([4, 72, 76, 79, 81, 214, 218, 246, 412, 420, 439], [18, 160, 370, 398])
+Running combination Initial Temperature 10 Geometric Strategy
+Score: 1998 of Instance 1 Tabu Greedy Initial,Tenure 80 Attributive Tabu List with squad ([4, 71, 72, 77, 81, 216, 218, 306, 412, 421, 424], [46, 212, 390, 403])
+Running combination Tenure 105 Explicit Tabu List
+Score: 1946 of Instance 2 Tabu Random Initial,Tenure 55 Explicit Tabu List with squad ([10, 74, 87, 117, 130, 298, 301, 308, 348, 578, 591], [68, 109, 569, 660])
+Running combination Tenure 55 Attributive Tabu List
+Score: 1486 of Instance 3 Tabu Random Initial,Tenure 80 Explicit Tabu List with squad ([16, 72, 73, 139, 282, 285, 313, 356, 445, 545, 559], [56, 136, 143, 600])
+Running combination Tenure 80 Attributive Tabu List
+Score: 1519 of Instance 3 Tabu Greedy Initial,Tenure 80 Explicit Tabu List with squad ([16, 72, 73, 74, 119, 139, 285, 286, 291, 545, 551], [67, 512, 513, 618])
+Running combination Tenure 80 Attributive Tabu List
+Score: 2007 of Instance 2 Tabu Greedy Initial,Tenure 55 Explicit Tabu List with squad ([10, 74, 75, 117, 130, 158, 298, 301, 315, 578, 583], [65, 554, 557, 656])
+Running combination Tenure 55 Attributive Tabu List
+Score: 1926 of Instance 2 Tabu Random Initial,Tenure 55 Attributive Tabu List with squad ([10, 74, 76, 117, 158, 300, 301, 348, 354, 578, 583], [55, 240, 355, 642])
+Running combination Tenure 80 Explicit Tabu List
+Score: 1800 of Instance 1 Tabu Random Initial,Tenure 105 Explicit Tabu List with squad ([4, 48, 72, 77, 81, 216, 263, 306, 377, 412, 431], [36, 202, 223, 421])
+Running combination Tenure 105 Attributive Tabu List
+Score: 1448 of Instance 3 Tabu Random Initial,Tenure 80 Attributive Tabu List with squad ([16, 72, 73, 153, 170, 218, 282, 285, 545, 554, 559], [11, 345, 453, 538])
+Running combination Tenure 105 Explicit Tabu List
+Score: 1543 of Instance 3 Tabu Greedy Initial,Tenure 80 Attributive Tabu List with squad ([16, 72, 73, 74, 75, 285, 291, 313, 545, 551, 554], [71, 276, 487, 494])
+Running combination Tenure 105 Explicit Tabu List
+Score: 1991 of Instance 1 Tabu Greedy Initial,Tenure 105 Explicit Tabu List with squad ([4, 48, 71, 72, 77, 81, 216, 218, 306, 412, 421], [38, 394, 395, 472])
+Running combination Tenure 105 Attributive Tabu List
+Score: 1727 of Instance 1 Tabu Random Initial,Tenure 105 Attributive Tabu List with squad ([21, 72, 77, 116, 184, 213, 216, 306, 358, 412, 437], [5, 60, 294, 465])
+Running combination Tenure 130 Explicit Tabu List
+Score: 2033 of Instance 2 Tabu Greedy Initial,Tenure 55 Attributive Tabu List with squad ([10, 74, 76, 130, 158, 298, 301, 308, 315, 583, 584], [57, 278, 564, 664])
+Running combination Tenure 80 Explicit Tabu List
+Score: 1998 of Instance 1 Tabu Greedy Initial,Tenure 105 Attributive Tabu List with squad ([4, 71, 72, 77, 81, 216, 218, 306, 412, 421, 424], [38, 211, 404, 405])
+Running combination Tenure 130 Explicit Tabu List
+Score: 1920 of Instance 1 Tabu Random Initial,Tenure 130 Explicit Tabu List with squad ([4, 48, 71, 72, 77, 81, 213, 216, 306, 421, 424], [36, 314, 409, 439])
+Running combination Tenure 130 Attributive Tabu List
+Score: 1961 of Instance 2 Tabu Random Initial,Tenure 80 Explicit Tabu List with squad ([10, 74, 87, 117, 158, 298, 301, 315, 372, 578, 583], [72, 164, 497, 631])
+Running combination Tenure 80 Attributive Tabu List
+Score: 1900 of Instance 1 Tabu Random Initial,Tenure 130 Attributive Tabu List with squad ([4, 48, 53, 71, 72, 77, 216, 218, 306, 420, 424], [10, 379, 390, 428])
+Running combination Tenure 155 Explicit Tabu List
+Score: 1966 of Instance 1 Tabu Greedy Initial,Tenure 130 Explicit Tabu List with squad ([4, 48, 72, 77, 81, 216, 263, 306, 412, 413, 421], [40, 204, 394, 404])
+Running combination Tenure 130 Attributive Tabu List
+Score: 1518 of Instance 3 Tabu Greedy Initial,Tenure 105 Explicit Tabu List with squad ([16, 72, 73, 74, 119, 139, 285, 291, 313, 543, 545], [71, 515, 524, 624])
+Running combination Tenure 105 Attributive Tabu List
+Score: 1434 of Instance 3 Tabu Random Initial,Tenure 105 Explicit Tabu List with squad ([16, 72, 73, 75, 285, 291, 344, 445, 517, 543, 545], [56, 101, 243, 576])
+Running combination Tenure 105 Attributive Tabu List
+Score: 1925 of Instance 2 Tabu Random Initial,Tenure 80 Attributive Tabu List with squad ([10, 74, 75, 130, 298, 301, 372, 489, 578, 583, 629], [50, 140, 258, 353])
+Running combination Tenure 105 Explicit Tabu List
+Score: 1416 of Instance 3 Tabu Random Initial,Tenure 105 Attributive Tabu List with squad ([16, 72, 119, 127, 139, 283, 285, 445, 554, 559, 598], [15, 248, 284, 488])
+Running combination Tenure 130 Explicit Tabu List
+Score: 1991 of Instance 1 Tabu Greedy Initial,Tenure 130 Attributive Tabu List with squad ([4, 48, 71, 72, 77, 81, 216, 218, 306, 412, 421], [44, 395, 410, 471])
+Running combination Tenure 155 Explicit Tabu List
+Score: 1524 of Instance 3 Tabu Greedy Initial,Tenure 105 Attributive Tabu List with squad ([16, 72, 73, 74, 139, 285, 290, 291, 313, 545, 551], [66, 273, 522, 615])
+Running combination Tenure 130 Explicit Tabu List
+Score: 2050 of Instance 2 Tabu Greedy Initial,Tenure 80 Explicit Tabu List with squad ([10, 74, 75, 76, 117, 301, 308, 315, 578, 583, 584], [72, 282, 558, 569])
+Running combination Tenure 80 Attributive Tabu List
+Score: 2027 of Instance 2 Tabu Greedy Initial,Tenure 80 Attributive Tabu List with squad ([10, 74, 75, 76, 77, 87, 301, 308, 315, 578, 583], [70, 559, 569, 655])
+Running combination Tenure 105 Explicit Tabu List
+Score: 1837 of Instance 1 Tabu Random Initial,Tenure 155 Explicit Tabu List with squad ([4, 72, 77, 81, 106, 216, 218, 306, 412, 421, 468], [36, 55, 259, 285])
+Running combination Tenure 155 Attributive Tabu List
+Score: 1958 of Instance 2 Simulated Annealing Greedy Initial,Initial Temperature 10 Linear Strategy with squad ([10, 74, 77, 117, 130, 141, 300, 301, 308, 583, 584], [59, 432, 476, 651])
+Running combination Initial Temperature 10 Geometric Strategy
+Score: 1998 of Instance 1 Tabu Greedy Initial,Tenure 155 Explicit Tabu List with squad ([4, 71, 72, 77, 81, 216, 218, 306, 412, 421, 424], [36, 208, 397, 402])
+Running combination Tenure 155 Attributive Tabu List
+Score: 1953 of Instance 1 Tabu Random Initial,Tenure 155 Attributive Tabu List with squad ([4, 47, 48, 71, 72, 77, 216, 263, 306, 412, 421], [44, 363, 383, 453])
+Running combination Tenure 180 Explicit Tabu List
+Score: 1983 of Instance 1 Tabu Greedy Initial,Tenure 155 Attributive Tabu List with squad ([4, 47, 48, 71, 72, 216, 263, 306, 412, 421, 424], [44, 209, 401, 404])
+Running combination Tenure 180 Explicit Tabu List
+Score: 1722 of Instance 2 Simulated Annealing Random Initial,Initial Temperature 10 Linear Strategy with squad ([11, 74, 76, 77, 87, 311, 347, 348, 579, 583, 608], [17, 196, 359, 490])
+Running combination Initial Temperature 10 Geometric Strategy
+Score: 1515 of Instance 3 Tabu Random Initial,Tenure 130 Explicit Tabu List with squad ([16, 72, 73, 74, 75, 139, 285, 313, 545, 551, 559], [46, 304, 394, 469])
+Running combination Tenure 130 Attributive Tabu List
+Score: 1524 of Instance 3 Tabu Greedy Initial,Tenure 130 Explicit Tabu List with squad ([16, 72, 73, 74, 139, 285, 290, 291, 313, 545, 551], [56, 249, 526, 623])
+Running combination Tenure 130 Attributive Tabu List
+Score: 1894 of Instance 2 Tabu Random Initial,Tenure 105 Explicit Tabu List with squad ([10, 76, 87, 117, 130, 298, 301, 348, 578, 583, 629], [67, 161, 340, 367])
+Running combination Tenure 105 Attributive Tabu List
+Score: 1524 of Instance 3 Tabu Greedy Initial,Tenure 130 Attributive Tabu List with squad ([16, 72, 74, 118, 139, 282, 285, 291, 445, 545, 554], [55, 271, 521, 620])
+Running combination Tenure 155 Explicit Tabu List
+Score: 1459 of Instance 3 Tabu Random Initial,Tenure 130 Attributive Tabu List with squad ([16, 72, 75, 218, 282, 285, 313, 445, 551, 554, 559], [58, 113, 162, 318])
+Running combination Tenure 155 Explicit Tabu List
+Score: 1959 of Instance 2 Tabu Random Initial,Tenure 105 Attributive Tabu List with squad ([10, 74, 75, 77, 158, 298, 301, 489, 578, 583, 593], [67, 283, 449, 485])
+Running combination Tenure 130 Explicit Tabu List
+Score: 1822 of Instance 1 Tabu Random Initial,Tenure 180 Explicit Tabu List with squad ([21, 71, 72, 77, 213, 216, 218, 306, 421, 437, 444], [36, 101, 199, 326])
+Running combination Tenure 180 Attributive Tabu List
+Score: 2050 of Instance 2 Tabu Greedy Initial,Tenure 105 Explicit Tabu List with squad ([10, 74, 75, 76, 117, 301, 308, 315, 578, 583, 584], [58, 295, 563, 568])
+Running combination Tenure 105 Attributive Tabu List
+Score: 2021 of Instance 1 Tabu Greedy Initial,Tenure 180 Explicit Tabu List with squad ([4, 48, 71, 72, 77, 216, 218, 263, 306, 412, 421], [40, 201, 386, 470])
+Running combination Tenure 180 Attributive Tabu List
+Score: 1861 of Instance 1 Tabu Random Initial,Tenure 180 Attributive Tabu List with squad ([4, 71, 72, 77, 184, 216, 218, 263, 306, 412, 444], [11, 97, 321, 442])
+Score: 2028 of Instance 1 Tabu Greedy Initial,Tenure 180 Attributive Tabu List with squad ([4, 71, 72, 77, 216, 218, 263, 306, 412, 421, 424], [41, 207, 212, 393])
+Score: 2024 of Instance 2 Tabu Greedy Initial,Tenure 105 Attributive Tabu List with squad ([10, 74, 76, 154, 158, 298, 301, 308, 315, 583, 584], [68, 286, 549, 658])
+Running combination Tenure 130 Explicit Tabu List
 Finished task Instance 1 Tabu Random Initial
 Starting task Instance 3 Simulated Annealing Greedy Initial
-Running combination Initial Temperature 50 Linear Strategy
-Score: 1472 of Instance 3 Tabu Random Initial,Tenure 35 Attributive Tabu List with squad ([16, 72, 74, 139, 282, 285, 344, 445, 517, 545, 551], [9, 186, 225, 582])
-Running combination Tenure 45 Explicit Tabu List
-Score: 1983 of Instance 1 Tabu Greedy Initial,Tenure 45 Explicit Tabu List with squad ([4, 47, 48, 71, 72, 216, 263, 306, 412, 421, 424], [37, 201, 380, 393])
-Running combination Tenure 45 Attributive Tabu List
-Score: 1518 of Instance 3 Tabu Greedy Initial,Tenure 35 Attributive Tabu List with squad ([16, 72, 73, 74, 119, 139, 285, 291, 313, 543, 545], [61, 471, 529, 625])
-Running combination Tenure 45 Explicit Tabu List
-Score: 1957 of Instance 2 Tabu Random Initial,Tenure 35 Explicit Tabu List with squad ([10, 74, 75, 87, 298, 308, 315, 348, 578, 583, 629], [49, 213, 276, 462])
-Running combination Tenure 35 Attributive Tabu List
-Score: 2027 of Instance 2 Tabu Greedy Initial,Tenure 25 Attributive Tabu List with squad ([10, 74, 75, 76, 77, 87, 301, 308, 315, 578, 583], [68, 556, 559, 664])
-Running combination Tenure 35 Explicit Tabu List
-Score: 1950 of Instance 1 Tabu Greedy Initial,Tenure 45 Attributive Tabu List with squad ([4, 47, 48, 72, 77, 81, 218, 306, 412, 413, 421], [40, 381, 382, 389])
+Running combination Initial Temperature 10 Linear Strategy
 Finished task Instance 1 Tabu Greedy Initial
 Starting task Instance 3 Simulated Annealing Random Initial
-Running combination Initial Temperature 50 Linear Strategy
-Score: 1964 of Instance 2 Tabu Random Initial,Tenure 35 Attributive Tabu List with squad ([10, 74, 75, 77, 117, 298, 301, 383, 578, 584, 629], [69, 261, 443, 500])
-Running combination Tenure 45 Explicit Tabu List
-Score: 1485 of Instance 3 Tabu Random Initial,Tenure 45 Explicit Tabu List with squad ([16, 72, 118, 119, 139, 282, 285, 291, 445, 545, 559], [70, 75, 458, 615])
-Running combination Tenure 45 Attributive Tabu List
-Score: 1501 of Instance 3 Tabu Greedy Initial,Tenure 45 Explicit Tabu List with squad ([16, 72, 73, 75, 139, 285, 286, 291, 313, 545, 554], [70, 255, 479, 618])
-Running combination Tenure 45 Attributive Tabu List
-Score: 1479 of Instance 3 Tabu Random Initial,Tenure 45 Attributive Tabu List with squad ([16, 72, 119, 139, 282, 285, 344, 445, 545, 551, 598], [59, 77, 250, 354])
-Finished task Instance 3 Tabu Random Initial
-Score: 2050 of Instance 2 Tabu Greedy Initial,Tenure 35 Explicit Tabu List with squad ([10, 74, 75, 76, 117, 301, 308, 315, 578, 583, 584], [65, 289, 551, 564])
-Running combination Tenure 35 Attributive Tabu List
-Score: 1519 of Instance 3 Tabu Greedy Initial,Tenure 45 Attributive Tabu List with squad ([16, 72, 73, 75, 77, 139, 285, 291, 545, 551, 554], [59, 480, 486, 494])
-Score: 1927 of Instance 2 Tabu Random Initial,Tenure 45 Explicit Tabu List with squad ([10, 74, 117, 158, 298, 301, 308, 348, 578, 591, 629], [56, 142, 167, 412])
-Running combination Tenure 45 Attributive Tabu List
-Score: 2050 of Instance 2 Tabu Greedy Initial,Tenure 35 Attributive Tabu List with squad ([10, 74, 75, 76, 117, 301, 308, 315, 578, 583, 584], [62, 288, 549, 569])
-Running combination Tenure 45 Explicit Tabu List
+Running combination Initial Temperature 10 Linear Strategy
+Score: 1525 of Instance 3 Tabu Greedy Initial,Tenure 155 Explicit Tabu List with squad ([16, 72, 73, 74, 75, 139, 285, 290, 291, 545, 551], [70, 517, 537, 617])
+Running combination Tenure 155 Attributive Tabu List
+Score: 1504 of Instance 3 Tabu Random Initial,Tenure 155 Explicit Tabu List with squad ([16, 72, 119, 139, 282, 285, 291, 326, 445, 545, 554], [59, 108, 246, 620])
+Running combination Tenure 155 Attributive Tabu List
+Score: 1939 of Instance 2 Tabu Random Initial,Tenure 130 Explicit Tabu List with squad ([10, 74, 75, 77, 117, 298, 301, 348, 578, 591, 629], [73, 149, 399, 572])
+Running combination Tenure 130 Attributive Tabu List
+Score: 1424 of Instance 3 Tabu Random Initial,Tenure 155 Attributive Tabu List with squad ([16, 72, 75, 119, 139, 170, 282, 285, 344, 551, 598], [5, 455, 513, 546])
+Running combination Tenure 180 Explicit Tabu List
+Score: 1525 of Instance 3 Tabu Greedy Initial,Tenure 155 Attributive Tabu List with squad ([16, 72, 73, 74, 75, 139, 285, 290, 291, 545, 551], [68, 504, 509, 617])
+Running combination Tenure 180 Explicit Tabu List
+Score: 1880 of Instance 2 Tabu Random Initial,Tenure 130 Attributive Tabu List with squad ([17, 74, 117, 158, 298, 301, 315, 348, 578, 586, 629], [62, 97, 148, 429])
+Running combination Tenure 155 Explicit Tabu List
+Score: 2050 of Instance 2 Tabu Greedy Initial,Tenure 130 Explicit Tabu List with squad ([10, 74, 75, 76, 117, 301, 308, 315, 578, 583, 584], [69, 297, 564, 565])
+Running combination Tenure 130 Attributive Tabu List
+Score: 2033 of Instance 2 Tabu Greedy Initial,Tenure 130 Attributive Tabu List with squad ([10, 74, 76, 77, 117, 158, 298, 301, 308, 583, 584], [68, 548, 564, 654])
+Running combination Tenure 155 Explicit Tabu List
+Score: 1503 of Instance 3 Tabu Random Initial,Tenure 180 Explicit Tabu List with squad ([16, 72, 73, 119, 139, 282, 285, 313, 445, 545, 559], [38, 191, 349, 606])
+Running combination Tenure 180 Attributive Tabu List
+Score: 1525 of Instance 3 Tabu Greedy Initial,Tenure 180 Explicit Tabu List with squad ([16, 72, 73, 74, 75, 139, 285, 290, 291, 545, 551], [60, 477, 529, 612])
+Running combination Tenure 180 Attributive Tabu List
+Score: 1526 of Instance 3 Tabu Greedy Initial,Tenure 180 Attributive Tabu List with squad ([16, 72, 74, 75, 139, 285, 290, 291, 545, 551, 554], [56, 272, 475, 476])
+Score: 1390 of Instance 3 Tabu Random Initial,Tenure 180 Attributive Tabu List with squad ([16, 72, 75, 153, 282, 285, 291, 370, 445, 545, 622], [24, 169, 265, 554])
 Finished task Instance 3 Tabu Greedy Initial
-Score: 1850 of Instance 2 Tabu Random Initial,Tenure 45 Attributive Tabu List with squad ([17, 74, 75, 117, 226, 298, 301, 348, 489, 578, 583], [42, 102, 497, 604])
+Score: 1866 of Instance 2 Tabu Random Initial,Tenure 155 Explicit Tabu List with squad ([27, 117, 130, 158, 298, 299, 301, 402, 578, 583, 629], [73, 189, 197, 503])
+Running combination Tenure 155 Attributive Tabu List
+Finished task Instance 3 Tabu Random Initial
+Score: 1923 of Instance 2 Tabu Random Initial,Tenure 155 Attributive Tabu List with squad ([10, 74, 87, 154, 158, 298, 301, 348, 354, 578, 584], [25, 226, 487, 587])
+Running combination Tenure 180 Explicit Tabu List
+Score: 2050 of Instance 2 Tabu Greedy Initial,Tenure 155 Explicit Tabu List with squad ([10, 74, 75, 76, 117, 301, 308, 315, 578, 583, 584], [64, 297, 559, 563])
+Running combination Tenure 155 Attributive Tabu List
+Score: 2050 of Instance 2 Tabu Greedy Initial,Tenure 155 Attributive Tabu List with squad ([10, 74, 75, 76, 117, 301, 308, 315, 578, 583, 584], [57, 291, 557, 573])
+Running combination Tenure 180 Explicit Tabu List
+Score: 1893 of Instance 2 Tabu Random Initial,Tenure 180 Explicit Tabu List with squad ([10, 74, 75, 77, 298, 301, 308, 354, 372, 608, 629], [68, 219, 292, 584])
+Running combination Tenure 180 Attributive Tabu List
+Score: 1933 of Instance 2 Tabu Random Initial,Tenure 180 Attributive Tabu List with squad ([10, 74, 76, 117, 130, 298, 301, 308, 489, 578, 629], [23, 158, 487, 603])
+Score: 2024 of Instance 2 Tabu Greedy Initial,Tenure 180 Explicit Tabu List with squad ([10, 74, 75, 76, 77, 301, 308, 315, 348, 578, 583], [24, 290, 549, 658])
+Running combination Tenure 180 Attributive Tabu List
 Finished task Instance 2 Tabu Random Initial
-Score: 2050 of Instance 2 Tabu Greedy Initial,Tenure 45 Explicit Tabu List with squad ([10, 74, 75, 76, 117, 301, 308, 315, 578, 583, 584], [66, 286, 568, 569])
-Running combination Tenure 45 Attributive Tabu List
-Score: 2033 of Instance 2 Tabu Greedy Initial,Tenure 45 Attributive Tabu List with squad ([10, 74, 76, 77, 117, 158, 298, 301, 308, 583, 584], [70, 550, 573, 659])
+Score: 2020 of Instance 2 Tabu Greedy Initial,Tenure 180 Attributive Tabu List with squad ([10, 74, 75, 76, 130, 301, 308, 311, 315, 578, 584], [57, 278, 548, 654])
 Finished task Instance 2 Tabu Greedy Initial
-Score: 2020 of Instance 1 Simulated Annealing Greedy Initial,Initial Temperature 50 Linear Strategy with squad ([4, 71, 72, 81, 216, 218, 263, 306, 412, 421, 424], [41, 199, 209, 405])
+Score: 1460 of Instance 3 Simulated Annealing Greedy Initial,Initial Temperature 10 Linear Strategy with squad ([16, 72, 73, 74, 118, 139, 285, 291, 445, 551, 559], [64, 477, 524, 614])
+Running combination Initial Temperature 10 Geometric Strategy
+Score: 1348 of Instance 3 Simulated Annealing Random Initial,Initial Temperature 10 Linear Strategy with squad ([8, 74, 119, 127, 139, 283, 285, 290, 370, 543, 582], [17, 116, 500, 625])
+Running combination Initial Temperature 10 Geometric Strategy
+Score: 1939 of Instance 1 Simulated Annealing Greedy Initial,Initial Temperature 10 Geometric Strategy with squad ([4, 47, 51, 71, 72, 77, 216, 306, 412, 421, 424], [40, 278, 386, 394])
+Running combination Initial Temperature 50 Linear Strategy
+Score: 1900 of Instance 1 Simulated Annealing Random Initial,Initial Temperature 10 Geometric Strategy with squad ([4, 47, 48, 53, 71, 72, 263, 306, 412, 413, 421], [16, 343, 346, 398])
+Running combination Initial Temperature 50 Linear Strategy
+Score: 2007 of Instance 1 Simulated Annealing Greedy Initial,Initial Temperature 50 Linear Strategy with squad ([4, 48, 72, 77, 81, 216, 218, 263, 306, 412, 421], [38, 211, 395, 470])
 Running combination Initial Temperature 50 Geometric Strategy
-Score: 1797 of Instance 1 Simulated Annealing Random Initial,Initial Temperature 50 Linear Strategy with squad ([3, 51, 71, 106, 216, 218, 227, 250, 306, 421, 428], [24, 90, 134, 441])
+Score: 1880 of Instance 1 Simulated Annealing Random Initial,Initial Temperature 50 Linear Strategy with squad ([4, 51, 52, 71, 77, 216, 229, 246, 306, 412, 420], [29, 108, 299, 472])
 Running combination Initial Temperature 50 Geometric Strategy
-Score: 1853 of Instance 2 Simulated Annealing Random Initial,Initial Temperature 50 Linear Strategy with squad ([11, 75, 76, 79, 87, 298, 301, 308, 372, 584, 597], [32, 240, 490, 652])
+Score: 2017 of Instance 2 Simulated Annealing Greedy Initial,Initial Temperature 10 Geometric Strategy with squad ([10, 74, 75, 77, 87, 158, 301, 308, 578, 583, 584], [64, 397, 483, 556])
+Running combination Initial Temperature 50 Linear Strategy
+Score: 1949 of Instance 2 Simulated Annealing Random Initial,Initial Temperature 10 Geometric Strategy with squad ([10, 74, 75, 130, 158, 298, 301, 306, 315, 583, 629], [45, 290, 438, 638])
+Running combination Initial Temperature 50 Linear Strategy
+Score: 1528 of Instance 3 Simulated Annealing Greedy Initial,Initial Temperature 10 Geometric Strategy with squad ([16, 72, 73, 74, 139, 285, 291, 313, 545, 552, 554], [28, 266, 460, 499])
+Running combination Initial Temperature 50 Linear Strategy
+Score: 1479 of Instance 3 Simulated Annealing Random Initial,Initial Temperature 10 Geometric Strategy with squad ([16, 73, 75, 118, 139, 282, 285, 291, 326, 551, 554], [45, 267, 404, 604])
+Running combination Initial Temperature 50 Linear Strategy
+Score: 2015 of Instance 2 Simulated Annealing Greedy Initial,Initial Temperature 50 Linear Strategy with squad ([10, 74, 75, 76, 77, 154, 301, 308, 315, 578, 584], [62, 560, 566, 664])
 Running combination Initial Temperature 50 Geometric Strategy
-Score: 1948 of Instance 2 Simulated Annealing Greedy Initial,Initial Temperature 50 Linear Strategy with squad ([10, 74, 77, 130, 154, 158, 301, 308, 315, 578, 584], [60, 567, 573, 664])
+Score: 1851 of Instance 2 Simulated Annealing Random Initial,Initial Temperature 50 Linear Strategy with squad ([10, 75, 76, 77, 99, 117, 299, 310, 315, 578, 584], [69, 414, 515, 635])
 Running combination Initial Temperature 50 Geometric Strategy
-Score: 1476 of Instance 3 Simulated Annealing Greedy Initial,Initial Temperature 50 Linear Strategy with squad ([16, 72, 73, 74, 119, 139, 285, 291, 326, 551, 559], [71, 476, 504, 619])
+Score: 1512 of Instance 3 Simulated Annealing Greedy Initial,Initial Temperature 50 Linear Strategy with squad ([16, 72, 73, 74, 139, 285, 291, 445, 545, 551, 559], [56, 269, 480, 531])
 Running combination Initial Temperature 50 Geometric Strategy
-Score: 1341 of Instance 3 Simulated Annealing Random Initial,Initial Temperature 50 Linear Strategy with squad ([8, 73, 81, 118, 127, 282, 285, 297, 367, 545, 568], [26, 165, 496, 586])
+Score: 1411 of Instance 3 Simulated Annealing Random Initial,Initial Temperature 50 Linear Strategy with squad ([6, 74, 124, 139, 282, 285, 297, 313, 545, 552, 568], [30, 265, 271, 502])
 Running combination Initial Temperature 50 Geometric Strategy
-Score: 1954 of Instance 1 Simulated Annealing Random Initial,Initial Temperature 50 Geometric Strategy with squad ([4, 48, 53, 72, 216, 218, 263, 276, 306, 421, 424], [38, 102, 118, 472])
-Running combination Initial Temperature 100 Linear Strategy
-Score: 1950 of Instance 1 Simulated Annealing Greedy Initial,Initial Temperature 50 Geometric Strategy with squad ([4, 47, 48, 51, 71, 72, 216, 246, 306, 412, 421], [40, 402, 406, 470])
-Running combination Initial Temperature 100 Linear Strategy
-Score: 1824 of Instance 1 Simulated Annealing Random Initial,Initial Temperature 100 Linear Strategy with squad ([4, 47, 48, 71, 72, 219, 245, 252, 306, 412, 420], [14, 134, 337, 461])
-Running combination Initial Temperature 100 Geometric Strategy
-Score: 1905 of Instance 1 Simulated Annealing Greedy Initial,Initial Temperature 100 Linear Strategy with squad ([4, 48, 71, 72, 76, 77, 218, 263, 306, 412, 421], [39, 404, 410, 470])
-Running combination Initial Temperature 100 Geometric Strategy
-Score: 1516 of Instance 3 Simulated Annealing Greedy Initial,Initial Temperature 50 Geometric Strategy with squad ([16, 72, 73, 75, 77, 139, 282, 285, 344, 551, 554], [36, 428, 496, 613])
-Running combination Initial Temperature 100 Linear Strategy
-Score: 1511 of Instance 3 Simulated Annealing Random Initial,Initial Temperature 50 Geometric Strategy with squad ([16, 72, 73, 74, 75, 119, 285, 326, 545, 549, 551], [39, 442, 465, 471])
-Running combination Initial Temperature 100 Linear Strategy
-Score: 2013 of Instance 2 Simulated Annealing Greedy Initial,Initial Temperature 50 Geometric Strategy with squad ([10, 74, 75, 117, 154, 301, 308, 315, 578, 583, 584], [71, 283, 551, 564])
-Running combination Initial Temperature 100 Linear Strategy
-Score: 1914 of Instance 2 Simulated Annealing Random Initial,Initial Temperature 50 Geometric Strategy with squad ([9, 75, 77, 130, 301, 302, 306, 315, 348, 578, 584], [67, 225, 242, 656])
-Running combination Initial Temperature 100 Linear Strategy
-Score: 1403 of Instance 3 Simulated Annealing Random Initial,Initial Temperature 100 Linear Strategy with squad ([13, 72, 75, 77, 139, 285, 291, 419, 542, 554, 559], [20, 106, 442, 533])
-Running combination Initial Temperature 100 Geometric Strategy
-Score: 1533 of Instance 3 Simulated Annealing Greedy Initial,Initial Temperature 100 Linear Strategy with squad ([16, 72, 73, 74, 139, 285, 291, 344, 545, 551, 554], [56, 277, 489, 519])
-Running combination Initial Temperature 100 Geometric Strategy
-Score: 1912 of Instance 1 Simulated Annealing Random Initial,Initial Temperature 100 Geometric Strategy with squad ([4, 51, 71, 72, 77, 213, 216, 276, 306, 420, 421], [35, 142, 337, 453])
-Running combination Initial Temperature 150 Linear Strategy
-Score: 1988 of Instance 1 Simulated Annealing Greedy Initial,Initial Temperature 100 Geometric Strategy with squad ([4, 47, 71, 72, 76, 77, 216, 218, 306, 412, 421], [39, 398, 399, 469])
-Running combination Initial Temperature 150 Linear Strategy
-Score: 2015 of Instance 2 Simulated Annealing Greedy Initial,Initial Temperature 100 Linear Strategy with squad ([10, 74, 76, 117, 130, 301, 308, 315, 578, 583, 584], [63, 297, 555, 559])
-Running combination Initial Temperature 100 Geometric Strategy
-Score: 1925 of Instance 2 Simulated Annealing Random Initial,Initial Temperature 100 Linear Strategy with squad ([10, 74, 117, 121, 154, 298, 301, 308, 402, 583, 584], [37, 272, 551, 664])
-Running combination Initial Temperature 100 Geometric Strategy
-Score: 1867 of Instance 1 Simulated Annealing Random Initial,Initial Temperature 150 Linear Strategy with squad ([10, 47, 72, 81, 106, 216, 218, 245, 246, 413, 421], [36, 154, 376, 468])
-Running combination Initial Temperature 150 Geometric Strategy
-Score: 2007 of Instance 1 Simulated Annealing Greedy Initial,Initial Temperature 150 Linear Strategy with squad ([4, 71, 72, 77, 216, 218, 263, 276, 306, 412, 421], [43, 206, 208, 470])
-Running combination Initial Temperature 150 Geometric Strategy
-Score: 1488 of Instance 3 Simulated Annealing Random Initial,Initial Temperature 100 Geometric Strategy with squad ([16, 72, 75, 139, 285, 291, 313, 344, 543, 551, 554], [23, 117, 280, 473])
-Running combination Initial Temperature 150 Linear Strategy
-Score: 1532 of Instance 3 Simulated Annealing Greedy Initial,Initial Temperature 100 Geometric Strategy with squad ([16, 72, 73, 75, 119, 139, 282, 285, 551, 554, 559], [38, 460, 464, 510])
-Running combination Initial Temperature 150 Linear Strategy
-Score: 1893 of Instance 2 Simulated Annealing Random Initial,Initial Temperature 100 Geometric Strategy with squad ([10, 75, 117, 134, 158, 298, 299, 301, 308, 583, 658], [71, 240, 524, 657])
-Running combination Initial Temperature 150 Linear Strategy
-Score: 1950 of Instance 2 Simulated Annealing Greedy Initial,Initial Temperature 100 Geometric Strategy with squad ([10, 74, 75, 117, 130, 158, 301, 308, 315, 583, 584], [60, 553, 568, 664])
-Running combination Initial Temperature 150 Linear Strategy
-Score: 1963 of Instance 1 Simulated Annealing Random Initial,Initial Temperature 150 Geometric Strategy with squad ([4, 48, 72, 77, 218, 219, 246, 263, 306, 412, 421], [45, 149, 194, 466])
-Finished task Instance 1 Simulated Annealing Random Initial
-Score: 1945 of Instance 1 Simulated Annealing Greedy Initial,Initial Temperature 150 Geometric Strategy with squad ([4, 48, 51, 71, 72, 77, 216, 218, 306, 413, 421], [44, 399, 401, 441])
+Score: 1967 of Instance 1 Simulated Annealing Greedy Initial,Initial Temperature 50 Geometric Strategy with squad ([4, 51, 71, 72, 77, 106, 216, 218, 306, 412, 421], [41, 391, 394, 468])
+Running combination Initial Temperature 90 Linear Strategy
+Score: 1953 of Instance 1 Simulated Annealing Random Initial,Initial Temperature 50 Geometric Strategy with squad ([4, 47, 48, 72, 106, 216, 218, 263, 306, 421, 424], [33, 181, 411, 462])
+Running combination Initial Temperature 90 Linear Strategy
+Score: 2020 of Instance 1 Simulated Annealing Greedy Initial,Initial Temperature 90 Linear Strategy with squad ([4, 71, 72, 81, 216, 218, 263, 306, 412, 421, 424], [40, 196, 200, 386])
+Running combination Initial Temperature 90 Geometric Strategy
+Score: 1768 of Instance 1 Simulated Annealing Random Initial,Initial Temperature 90 Linear Strategy with squad ([10, 47, 48, 65, 69, 216, 227, 246, 252, 420, 421], [46, 205, 385, 449])
+Running combination Initial Temperature 90 Geometric Strategy
+Score: 1531 of Instance 3 Simulated Annealing Greedy Initial,Initial Temperature 50 Geometric Strategy with squad ([16, 72, 73, 74, 119, 139, 285, 291, 545, 549, 551], [61, 442, 456, 479])
+Running combination Initial Temperature 90 Linear Strategy
+Score: 1467 of Instance 3 Simulated Annealing Random Initial,Initial Temperature 50 Geometric Strategy with squad ([8, 72, 74, 77, 282, 285, 313, 326, 344, 551, 561], [42, 200, 236, 613])
+Running combination Initial Temperature 90 Linear Strategy
+Score: 1885 of Instance 2 Simulated Annealing Random Initial,Initial Temperature 50 Geometric Strategy with squad ([10, 75, 130, 158, 298, 299, 301, 348, 365, 583, 591], [39, 248, 289, 646])
+Running combination Initial Temperature 90 Linear Strategy
+Score: 1979 of Instance 2 Simulated Annealing Greedy Initial,Initial Temperature 50 Geometric Strategy with squad ([10, 74, 76, 117, 130, 154, 301, 308, 578, 583, 584], [57, 550, 567, 573])
+Running combination Initial Temperature 90 Linear Strategy
+Score: 1928 of Instance 1 Simulated Annealing Greedy Initial,Initial Temperature 90 Geometric Strategy with squad ([4, 47, 48, 71, 72, 216, 263, 306, 413, 421, 424], [22, 167, 351, 388])
+Running combination Initial Temperature 130 Linear Strategy
+Score: 1936 of Instance 1 Simulated Annealing Random Initial,Initial Temperature 90 Geometric Strategy with squad ([4, 48, 51, 53, 71, 72, 216, 263, 306, 412, 421], [17, 366, 382, 445])
+Running combination Initial Temperature 130 Linear Strategy
+Score: 1501 of Instance 3 Simulated Annealing Greedy Initial,Initial Temperature 90 Linear Strategy with squad ([16, 72, 73, 74, 139, 285, 344, 445, 545, 551, 554], [61, 269, 487, 497])
+Running combination Initial Temperature 90 Geometric Strategy
+Score: 1453 of Instance 3 Simulated Annealing Random Initial,Initial Temperature 90 Linear Strategy with squad ([10, 72, 73, 75, 170, 285, 291, 297, 313, 545, 551], [23, 125, 519, 626])
+Running combination Initial Temperature 90 Geometric Strategy
+Score: 1850 of Instance 2 Simulated Annealing Random Initial,Initial Temperature 90 Linear Strategy with squad ([7, 74, 76, 134, 161, 301, 311, 354, 578, 584, 586], [32, 180, 381, 455])
+Running combination Initial Temperature 90 Geometric Strategy
+Score: 1936 of Instance 2 Simulated Annealing Greedy Initial,Initial Temperature 90 Linear Strategy with squad ([10, 74, 77, 117, 130, 154, 301, 308, 315, 583, 584], [60, 555, 560, 660])
+Running combination Initial Temperature 90 Geometric Strategy
+Score: 1953 of Instance 1 Simulated Annealing Greedy Initial,Initial Temperature 130 Linear Strategy with squad ([4, 47, 48, 71, 72, 77, 216, 263, 306, 412, 421], [44, 396, 400, 472])
+Running combination Initial Temperature 130 Geometric Strategy
+Score: 1787 of Instance 1 Simulated Annealing Random Initial,Initial Temperature 130 Linear Strategy with squad ([6, 48, 79, 81, 218, 229, 246, 263, 420, 421, 424], [8, 87, 126, 361])
+Running combination Initial Temperature 130 Geometric Strategy
+Score: 1495 of Instance 3 Simulated Annealing Greedy Initial,Initial Temperature 90 Geometric Strategy with squad ([16, 72, 73, 119, 139, 283, 285, 326, 445, 545, 554], [53, 178, 514, 611])
+Running combination Initial Temperature 130 Linear Strategy
+Score: 1988 of Instance 1 Simulated Annealing Greedy Initial,Initial Temperature 130 Geometric Strategy with squad ([4, 48, 71, 72, 77, 86, 216, 218, 306, 412, 421], [38, 387, 406, 469])
+Running combination Initial Temperature 170 Linear Strategy
+Score: 1515 of Instance 3 Simulated Annealing Random Initial,Initial Temperature 90 Geometric Strategy with squad ([16, 72, 73, 119, 139, 282, 285, 291, 344, 551, 559], [28, 219, 533, 610])
+Running combination Initial Temperature 130 Linear Strategy
+Score: 1926 of Instance 1 Simulated Annealing Random Initial,Initial Temperature 130 Geometric Strategy with squad ([4, 47, 53, 71, 72, 81, 216, 263, 306, 412, 421], [25, 354, 370, 456])
+Running combination Initial Temperature 170 Linear Strategy
+Score: 1992 of Instance 2 Simulated Annealing Random Initial,Initial Temperature 90 Geometric Strategy with squad ([10, 74, 117, 130, 158, 298, 301, 348, 578, 583, 584], [30, 277, 508, 512])
+Running combination Initial Temperature 130 Linear Strategy
+Score: 1983 of Instance 2 Simulated Annealing Greedy Initial,Initial Temperature 90 Geometric Strategy with squad ([10, 74, 76, 77, 117, 154, 301, 308, 315, 578, 583], [71, 557, 569, 663])
+Running combination Initial Temperature 130 Linear Strategy
+Score: 1942 of Instance 1 Simulated Annealing Greedy Initial,Initial Temperature 170 Linear Strategy with squad ([4, 48, 72, 77, 106, 216, 263, 306, 412, 420, 421], [40, 198, 371, 379])
+Running combination Initial Temperature 170 Geometric Strategy
+Score: 1821 of Instance 1 Simulated Annealing Random Initial,Initial Temperature 170 Linear Strategy with squad ([4, 51, 69, 72, 213, 227, 258, 294, 412, 421, 424], [37, 118, 193, 396])
+Running combination Initial Temperature 170 Geometric Strategy
+Score: 1525 of Instance 3 Simulated Annealing Greedy Initial,Initial Temperature 130 Linear Strategy with squad ([16, 72, 73, 74, 139, 285, 291, 445, 545, 551, 554], [68, 250, 480, 535])
+Running combination Initial Temperature 130 Geometric Strategy
+Score: 1308 of Instance 3 Simulated Annealing Random Initial,Initial Temperature 130 Linear Strategy with squad ([6, 110, 117, 170, 282, 286, 344, 419, 545, 552, 559], [57, 185, 220, 485])
+Running combination Initial Temperature 130 Geometric Strategy
+Score: 1895 of Instance 2 Simulated Annealing Random Initial,Initial Temperature 130 Linear Strategy with squad ([5, 76, 77, 87, 130, 299, 306, 315, 578, 583, 584], [70, 257, 392, 570])
+Running combination Initial Temperature 130 Geometric Strategy
+Score: 1988 of Instance 2 Simulated Annealing Greedy Initial,Initial Temperature 130 Linear Strategy with squad ([10, 74, 76, 77, 154, 301, 306, 308, 315, 583, 584], [56, 284, 555, 658])
+Running combination Initial Temperature 130 Geometric Strategy
+Score: 1945 of Instance 1 Simulated Annealing Greedy Initial,Initial Temperature 170 Geometric Strategy with squad ([4, 53, 71, 72, 77, 218, 263, 306, 412, 413, 421], [37, 205, 387, 393])
 Finished task Instance 1 Simulated Annealing Greedy Initial
-Score: 1309 of Instance 3 Simulated Annealing Random Initial,Initial Temperature 150 Linear Strategy with squad ([6, 110, 127, 153, 157, 282, 283, 295, 304, 549, 552], [26, 238, 394, 604])
-Running combination Initial Temperature 150 Geometric Strategy
-Score: 1531 of Instance 3 Simulated Annealing Greedy Initial,Initial Temperature 150 Linear Strategy with squad ([16, 72, 74, 119, 139, 282, 285, 344, 545, 554, 559], [56, 262, 482, 526])
-Running combination Initial Temperature 150 Geometric Strategy
-Score: 1859 of Instance 2 Simulated Annealing Random Initial,Initial Temperature 150 Linear Strategy with squad ([3, 77, 117, 121, 158, 299, 301, 315, 578, 584, 629], [9, 215, 550, 552])
-Running combination Initial Temperature 150 Geometric Strategy
-Score: 2045 of Instance 2 Simulated Annealing Greedy Initial,Initial Temperature 150 Linear Strategy with squad ([10, 74, 75, 76, 158, 301, 308, 315, 578, 583, 584], [60, 286, 556, 557])
-Running combination Initial Temperature 150 Geometric Strategy
-Score: 1482 of Instance 3 Simulated Annealing Random Initial,Initial Temperature 150 Geometric Strategy with squad ([10, 72, 73, 74, 139, 285, 291, 295, 313, 545, 559], [48, 141, 513, 615])
+Score: 1965 of Instance 1 Simulated Annealing Random Initial,Initial Temperature 170 Geometric Strategy with squad ([4, 48, 53, 71, 72, 216, 263, 306, 412, 421, 424], [29, 130, 344, 385])
+Finished task Instance 1 Simulated Annealing Random Initial
+Score: 1532 of Instance 3 Simulated Annealing Greedy Initial,Initial Temperature 130 Geometric Strategy with squad ([16, 72, 74, 139, 282, 285, 326, 344, 545, 554, 559], [60, 271, 274, 469])
+Running combination Initial Temperature 170 Linear Strategy
+Score: 1529 of Instance 3 Simulated Annealing Random Initial,Initial Temperature 130 Geometric Strategy with squad ([16, 72, 73, 74, 139, 285, 291, 313, 545, 551, 559], [37, 247, 423, 442])
+Running combination Initial Temperature 170 Linear Strategy
+Score: 1985 of Instance 2 Simulated Annealing Random Initial,Initial Temperature 130 Geometric Strategy with squad ([10, 74, 75, 76, 301, 308, 315, 354, 578, 584, 591], [61, 222, 250, 495])
+Running combination Initial Temperature 170 Linear Strategy
+Score: 1989 of Instance 2 Simulated Annealing Greedy Initial,Initial Temperature 130 Geometric Strategy with squad ([10, 74, 75, 76, 130, 154, 301, 308, 315, 578, 584], [70, 550, 554, 658])
+Running combination Initial Temperature 170 Linear Strategy
+Score: 1533 of Instance 3 Simulated Annealing Greedy Initial,Initial Temperature 170 Linear Strategy with squad ([16, 72, 73, 74, 139, 285, 291, 344, 545, 551, 554], [63, 279, 510, 515])
+Running combination Initial Temperature 170 Geometric Strategy
+Score: 1437 of Instance 3 Simulated Annealing Random Initial,Initial Temperature 170 Linear Strategy with squad ([16, 72, 75, 77, 118, 139, 285, 304, 545, 549, 552], [34, 443, 485, 521])
+Running combination Initial Temperature 170 Geometric Strategy
+Score: 1915 of Instance 2 Simulated Annealing Random Initial,Initial Temperature 170 Linear Strategy with squad ([9, 74, 76, 77, 87, 130, 299, 348, 578, 581, 584], [72, 346, 533, 570])
+Running combination Initial Temperature 170 Geometric Strategy
+Score: 2010 of Instance 2 Simulated Annealing Greedy Initial,Initial Temperature 170 Linear Strategy with squad ([10, 74, 76, 77, 117, 158, 301, 308, 578, 583, 584], [68, 557, 559, 568])
+Running combination Initial Temperature 170 Geometric Strategy
+Score: 1488 of Instance 3 Simulated Annealing Random Initial,Initial Temperature 170 Geometric Strategy with squad ([16, 72, 74, 75, 127, 283, 285, 313, 326, 551, 554], [64, 205, 460, 603])
 Finished task Instance 3 Simulated Annealing Random Initial
-Score: 1486 of Instance 3 Simulated Annealing Greedy Initial,Initial Temperature 150 Geometric Strategy with squad ([8, 72, 73, 74, 77, 139, 285, 290, 313, 545, 554], [65, 407, 456, 608])
+Score: 1524 of Instance 3 Simulated Annealing Greedy Initial,Initial Temperature 170 Geometric Strategy with squad ([16, 72, 73, 75, 139, 285, 291, 313, 545, 551, 554], [32, 258, 461, 539])
 Finished task Instance 3 Simulated Annealing Greedy Initial
-Score: 1906 of Instance 2 Simulated Annealing Random Initial,Initial Temperature 150 Geometric Strategy with squad ([10, 75, 87, 117, 299, 301, 308, 315, 354, 578, 629], [66, 111, 248, 652])
+Score: 2003 of Instance 2 Simulated Annealing Random Initial,Initial Temperature 170 Geometric Strategy with squad ([10, 74, 75, 154, 301, 308, 315, 354, 578, 583, 584], [45, 256, 279, 456])
 Finished task Instance 2 Simulated Annealing Random Initial
-Score: 1984 of Instance 2 Simulated Annealing Greedy Initial,Initial Temperature 150 Geometric Strategy with squad ([10, 74, 75, 87, 117, 154, 301, 308, 575, 578, 584], [42, 506, 550, 570])
+Score: 1988 of Instance 2 Simulated Annealing Greedy Initial,Initial Temperature 170 Geometric Strategy with squad ([10, 74, 75, 76, 130, 301, 308, 315, 372, 578, 583], [59, 295, 551, 654])
 Finished task Instance 2 Simulated Annealing Greedy Initial
-Finished all tasks
-
-Process finished with exit code 0

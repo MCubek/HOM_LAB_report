@@ -71,10 +71,10 @@ first_argument = [(folder_path + '2022_instance1.csv', 'Instance 1'),
 second_argument = [("1", "Tabu"), ("2", "Simulated Annealing")]
 third_argument = [("1", "Greedy Initial"), ("2", "Random Initial")]
 
-fourth_argument_tabu = list(map(lambda x: (str(x), "Tenure " + str(x)), range(5, 50, 10)))
+fourth_argument_tabu = list(map(lambda x: (str(x), "Tenure " + str(x)), range(5, 200, 25)))
 fifth_argument_tabu = [("1", "Explicit Tabu List"), ("2", "Attributive Tabu List")]
 
-fourth_argument_annealing = list(map(lambda x: (str(x), "Initial Temperature " + str(x)), range(50, 200, 50)))
+fourth_argument_annealing = list(map(lambda x: (str(x), "Initial Temperature " + str(x)), range(10, 200, 40)))
 fifth_argument_annealing = [("1", "Linear Strategy"), ("2", "Geometric Strategy")]
 
 instance_alg_combination = [first_argument, second_argument, third_argument]
