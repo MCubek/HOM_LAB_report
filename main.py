@@ -63,11 +63,10 @@ def get_best_squad(output: list[str]) -> (list[int], list[int],):
     return list(team1), list(team2)
 
 
-folder_path = '/Users/matejc/Dev/IntelliJ/Heurističke metode optimizacije/Lab1_HMO/src/main/resources/'
+folder_path = '/Users/matejc/Dev/IntelliJ/Heurističke metode optimizacije/Lab1_HMO/src/main/resources/lab2/'
 
-first_argument = [(folder_path + '2022_instance1.csv', 'Instance 1'),
-                  (folder_path + '2022_instance2.csv', 'Instance 2'),
-                  (folder_path + '2022_instance3.csv', 'Instance 3')]
+first_argument = [(folder_path + 'Lab2_inst1.csv', 'Instance 1'),
+                  (folder_path + 'Lab2_inst2.csv', 'Instance 2')]
 second_argument = [("1", "Tabu"), ("2", "Simulated Annealing")]
 third_argument = [("1", "Greedy Initial"), ("2", "Random Initial")]
 

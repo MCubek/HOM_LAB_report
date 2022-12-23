@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 if __name__ == '__main__':
     results = []
 
-    for line in open('images_backup/output.log', 'r'):
+    for line in open('./output.log', 'r'):
         if line.startswith("Score"):
             match = re.match('Score: (\\d+) of ([\\w ]+),([\\w ]+) with squad .*', line)
             results.append(match.groups())
